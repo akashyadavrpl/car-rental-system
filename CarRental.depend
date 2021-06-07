@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1589125622 source:e:\carrental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1589125618 e:\carrental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1589126094 source:e:\carrental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	<stdlib.h>
+	"conio2.h"
+	<time.h>
+
+1589126198 e:\carrental\car.h
+	<time.h>
+
+1589126094 source:e:\carrental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+
+1589126096 source:d:\carrental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	<stdlib.h>
+	"conio2.h"
+	<time.h>
+
+1589126200 d:\carrental\car.h
+	<time.h>
+
+1589125620 d:\carrental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1589125624 source:d:\carrental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1589126096 source:d:\carrental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	"car.h"
+
